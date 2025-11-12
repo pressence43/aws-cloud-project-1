@@ -1,0 +1,4 @@
+## Purpose
+- Monitor EC2 performance (CPU, memory, disk, network)
+- Track resource utilization and trends
+- Set up alerts for high CPU usage or other thresholds
